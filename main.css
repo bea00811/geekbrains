@@ -1,0 +1,63 @@
+
+
+h1 {
+
+	text-align: center;
+    margin: 100px 0 50px 0;
+	}
+
+ p{
+
+    text-align: center;
+    }
+	
+.box{
+
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.product_box{
+
+    display: block;
+    margin: 0 auto;
+}
+
+.product_box img {
+
+
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+    height: auto;
+}
+
+.product_form {
+
+   text-align: center;
+ 
+}
+
+li{
+
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3,h4{
+
+    text-align: center;
+}
+
+input{
+
+    width: 50px;
+    margin: 10px 0;
+}
+
+
