@@ -28,8 +28,8 @@ function print_arr($array){
 }
 // session_destroy();
 
-$_SESSION["productira"] = $_POST;
-print_arr ($_SESSION ["productira"]);
+$_SESSION["variable"]=value;
+print_arr ($_SESSION ["variable"]);
 
 ?>
 
